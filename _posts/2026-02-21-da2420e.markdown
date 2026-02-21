@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Quote da2420e"
+date:   2026-02-21 13:00:00 +0000
+categories: quotes
+---
+
+### Scope of Work
+
+Removal of old radiator and installation of new radiator beneath window. Including new TRV valve set.
+
+This work will require temporarily disabling your central heating system.
+
+### Itemised Quote
+
+|Item|Qty|Unit Cost|Sub Total|
+|---|---|---|---|
+|Double panel radiator, Vertical column, Anthracite Grey, 400mm x 1470mm (See product illustration below)|1|£227|£227|
+|TRV Valve Set|1|£25|£25|
+|Labour|1|£200|£200|
+|||**Total:**|**£452**|
+
+### Product illustrations
+
+Click an image to view a larger version:
+
+[![]({{site.baseurl}}/assets/images/da2420e_rad_flat_double_anthracite_full.jpg){: width="150" style="border-style: solid" }]({{site.baseurl}}/assets/images/da2420e_rad_flat_double_anthracite_full.jpg)
+[![]({{site.baseurl}}/assets/images/da2420e_rad_flat_double_anthracite.jpg){: width="150" style="border-style: solid" }]({{site.baseurl}}/assets/images/da2420e_rad_flat_double_anthracite.jpg)
